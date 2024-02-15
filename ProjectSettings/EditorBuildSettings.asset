@@ -222,6 +222,24 @@ EditorBuildSettings:
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenFastFade.unity
     guid: 8101c376367d6e44f84e602722e5ac10
   - enabled: 1
+    path: Assets/Juego/Scenes/Inicio.unity
+    guid: f9c6eb96a8d12d54ab429f36337cdce5
+  - enabled: 1
+    path: Assets/Juego/Scenes/Perdio.unity
+    guid: 457718531f0a496409c03782d9ef6ff8
+  - enabled: 1
+    path: Assets/Juego/Scenes/Instrucciones.unity
+    guid: d9c99f67f8008db43b77763fbf54ea51
+  - enabled: 1
+    path: Assets/Juego/Scenes/Gano.unity
+    guid: ff8effd19a8e4f64c8ff4ec33cff67de
+  - enabled: 1
+    path: Assets/Juego/Scenes/Creditos.unity
+    guid: c71e1a7392faf4643a73c16a632ad134
+  - enabled: 1
+    path: Assets/Juego/Scenes/Nivel_1.unity
+    guid: 477835626ee85bf4092d1fc26c3c5512
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
     guid: 945e5b97212e8e74ebcd35bddde3970c
   m_configObjects: {}
