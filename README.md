@@ -9,7 +9,7 @@ Somos "**Utopic Healers**" estudiantes interesados en el Game Development
 -  Emanuel Lora Grisales
 -  Alejandro Villegas Morales
 
-![Utopic Healers]("Assets/Juego/Assets/Images/alas1.png")
+![Utopic Healers](https://raw.githubusercontent.com/Villegazs/juego/main/Assets/Juego/Assets/Images/alas1.png)
 
 ## Nombre del Juego: "Misión Corgi: La Última Esperanza"
 
