@@ -9,6 +9,7 @@ TagManager:
   - Background
   - NoMask
   - Llave
+  - Dialogo
   layers:
   - Default
   - TransparentFX
