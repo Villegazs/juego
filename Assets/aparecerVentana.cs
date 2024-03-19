@@ -8,6 +8,8 @@ public class aparecerVentana : MonoBehaviour, MMEventListener<PickableItemEvent>
 {
 
     [SerializeField] private GameObject ventana;
+    //public Textos textos;
+    [SerializeField] private string dialogo;
   // Interfaz con el evento de pickable item event que tiene las monedas de corgi
 
 
@@ -26,8 +28,8 @@ public class aparecerVentana : MonoBehaviour, MMEventListener<PickableItemEvent>
         if (e.PickedItem.tag == "Dialogo")
         {
             ventana.SetActive(true);
+            FindObjectOfType<ControlDialogos>().ActivarCartel(dialogo);
         }
-
     }
 }
 
