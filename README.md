@@ -22,4 +22,6 @@ En un mundo devastado por la ambición desmedida de EcoCorp, un valiente corgi a
 
 ### Driagrama de clases
 
-![Max]("C:/Users/Lenovo/proyectoScriptim/juego/clases juego scrip.png")
+![Max](https://raw.githubusercontent.com/Villegazs/juego/main/Assets/Juego/Assets/Images/clases juego scrip.png)
+
+
