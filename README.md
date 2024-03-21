@@ -22,4 +22,4 @@ En un mundo devastado por la ambición desmedida de EcoCorp, un valiente corgi a
 
 ### Driagrama de clases
 
-![clases implementadas](clases juego scrip.png)
+![Max]("C:/Users/Lenovo/proyectoScriptim/juego/clases juego scrip.png")
