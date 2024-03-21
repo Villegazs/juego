@@ -22,4 +22,9 @@ En un mundo devastado por la ambición desmedida de EcoCorp, un valiente corgi a
 
 ### Driagrama de clases
 
-![Max]("C:/Users/Lenovo/proyectoScriptim/juego/clases juego scrip.png")
+![Max](https://raw.githubusercontent.com/Lenovo/proyectoScriptim/juego/Assets/Juego/Assets/Images/clases juego scrip.png")
+
+## Historia nivel 2
+En el nivel 2 corgi se adentrara dentro de las instalaciones de EcoCorp en busca de destruir la planta principal de produccion de armas enfrentando y esquivando los diferentes peligros que se encuentre en el camino, debera buscar pistas de como llegar a la planta principal para destuirla
+
+
